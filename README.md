@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zerocry
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, & Javascript
 
 
 <!---
